@@ -1,0 +1,26 @@
+{
+  "name": "eslint-import-resolver-webpack-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caub/eslint-import-resolver-webpack-bug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caub/eslint-import-resolver-webpack-bug/issues"
+  },
+  "homepage": "https://github.com/caub/eslint-import-resolver-webpack-bug#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.14.1",
+    "eslint-import-resolver-webpack": "^0.11.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
